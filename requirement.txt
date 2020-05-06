@@ -1,0 +1,5 @@
+# selenium version 3.141.0
+pip install selenium
+
+# beautifulsoup version 4.9.0
+pip install beautifulsoup4 

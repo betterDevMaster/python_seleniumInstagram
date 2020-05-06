@@ -1,0 +1,13 @@
+{
+    "VERSION": "0.1.0",
+    "LASTUPDATE": "2020-05-01",
+    "AUTHOR": "dongfreelancer@gmail.com",
+    "LOG": "True",
+    "BACKEND_URL": "http://localhost:8000/",
+    "SECRET_KEY": "!@#$RTYUKL)(I*UYG$%TYU$%&RFYG()*)%#%UPI&*^RGJKHKLU*&$TGGJLU^%^&$YHGH&*$%TFJH(&))^&$^&HGHG",
+    "LOG_PATH": "/logs",
+    "CHROMEDRIVER": "/chromedriver/chromedriver.exe",
+    "INSTAGRAM_USER": "dongfreelancer@gmail.com",
+    "INSTAGRAM_PASSWORD": "Howareyou0321!",
+    "INSTAGRAM": "https://www.instagram.com/"
+}
